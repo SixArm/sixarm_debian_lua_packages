@@ -1,0 +1,10 @@
+Package: sixarm-debian-lua-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: lua5.2, liblua5.2-dev, luadoc, lua-mode, luajit, luakit, luarocks, luasocket, gimp-gluas, libtolua-dev, libluabridge-ruby, libgv-lua
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Lua packages we like to use
+ Lua packages we like to use together.
+
