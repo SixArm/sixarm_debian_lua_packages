@@ -1,0 +1,16 @@
+lua5.2
+luadoc
+lua-mode
+luajit
+luakit
+luarocks
+luasocket
+
+# Gimp scripting uses Lua
+gimp-gluas
+
+# Lib
+libtolua-dev
+libluabridge-ruby
+libgv-lua
+liblua5.2-dev
